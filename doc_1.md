@@ -1,10 +1,10 @@
 1.Write a program to check if any given mathematical expression has a balanced number of
 parentheses or not?
 (a) Data Structure
+
 Stack as a datastructure is used in this program with implementation of array and top as a variable that operates the stack.
 
 (b)Description of the functions implemented
-
 1. isempty()
 This function checks whether the stack is empty or not. If top == -1, it returns 1 (empty), otherwise it returns 0.
 2. isfull()
@@ -23,7 +23,4 @@ The main() function takes the input expression from the user and calls the check
 
 (d) A sample output of a complete run of the program.
 
-![text](link)
-![text](link)
-![text](link)
 
