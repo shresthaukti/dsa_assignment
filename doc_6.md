@@ -21,4 +21,4 @@ The program uses an array arr[MAX] to store the unsorted  elements. Two addition
 The main() function first reads the number of elements and the unsorted array from the user. It then copies the array into maxHeap[], builds the max-heap using buildMaxHeap(), and prints it. Similarly, it copies the array into minHeap[], builds the min-heap using buildMinHeap(), and prints it. The program ends after displaying both heaps.
 
 (d) Output
-![output6](link)
+![output6](https://github.com/shresthaukti/dsa_assignment/blob/98458458175782a5c3b8232f6e1e20ecc9d7b8c5/output/output_6.png)
