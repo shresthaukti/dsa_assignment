@@ -20,4 +20,4 @@ evaluatePostfix() – Evaluates the postfix expression by pushing operands onto 
 The main() function takes an infix expression from the user, converts it to postfix using infixToPostfix(), prints the postfix form, then evaluates it using evaluatePostfix() and displays the result. It coordinates the stack operations and arithmetic logic using the functions defined above.
 
 (d)Output
-![output2](link)
+![output2](https://github.com/shresthaukti/dsa_assignment/blob/95f6f3d9e95bb859a8b365f05fc9d8d4b9188d8d/output/output_2.png)
