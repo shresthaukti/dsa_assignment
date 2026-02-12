@@ -1,4 +1,5 @@
 (a) Data Structure
+
 Stack as a datastructure is used in this program with implementation of array and top as a variable that operates the stack.
 
 (b)Description of the functions implemented
@@ -19,4 +20,9 @@ This function checks whether the given expression is balanced. It pushes opening
 The main() function takes the input expression from the user and calls the check() function to test balance. If the expression is balanced, it prints "Expression is balanced", otherwise it prints "Expression is not balanced".
 
 (d) A sample output of a complete run of the program.
+
 ![output: a](https://github.com/shresthaukti/dsa_assignment/blob/f3bed4e1bb249187c02f8997e3981049bdac059d/output/output_1a.png)
+![output: b](https://github.com/shresthaukti/dsa_assignment/blob/f3bed4e1bb249187c02f8997e3981049bdac059d/output/output_1b.png)
+![output: a](https://github.com/shresthaukti/dsa_assignment/blob/f3bed4e1bb249187c02f8997e3981049bdac059d/output/output_1c.png)
+
+
