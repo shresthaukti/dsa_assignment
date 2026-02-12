@@ -1,5 +1,6 @@
 1.Write a program to check if any given mathematical expression has a balanced number of
 parentheses or not?
+
 (a) Data Structure
 
 Stack as a datastructure is used in this program with implementation of array and top as a variable that operates the stack.

@@ -4,6 +4,7 @@ Q3. Write and Implement the reverse traversal algorithm in the linked list. Writ
 The program uses a doubly linked list, where each node contains an integer data, a pointer next to the next node, and a pointer prev to the previous node. The head of the list is maintained using a pointer head. This structure allows traversal in both forward and backward directions.
 
 (b) Functions
+
 createNode(int data):It  creates a new node with the given value.
 
 insertEnd(struct Node* head,int data): It adds a new node at the end of the list and returns the updated head.
@@ -18,4 +19,8 @@ The main() function initializes the list with head=NULL, inserts four nodes usin
 
 (d)Output
 
+<<<<<<< HEAD
 ![output2](link)
+=======
+![output3](https://github.com/shresthaukti/dsa_assignment/blob/545dc086194a90d7587a3fb7a36d444e0fb30284/output/output_3.png)]
+>>>>>>> 6718fc0835cbd0e6a1c6902a97fcf3532ff4c87f
