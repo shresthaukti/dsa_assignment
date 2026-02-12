@@ -17,4 +17,5 @@ The program uses a 2D array adj[MAX][MAX] to represent the adjacency matrix of a
 The main() function first sets V = 3 and initializes the adjacency matrix to zero. It adds edges to form an undirected graph by updating adj[i][j] for connected vertices. The program first calls printAdjMatrix() to display the matrix. Then it performs BFS starting from vertex 0 using the BFS() function and prints the traversal. At last it performs DFS starting from vertex 0 using the DFS() function and prints the traversal.
 
 (d) Output
+
 ![output2](https://github.com/shresthaukti/dsa_assignment/blob/d8992d2aab38078c2dc4806a2dcaf983b32cf7fc/output/output_5.png)
