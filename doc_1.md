@@ -1,3 +1,5 @@
+1.Write a program to check if any given mathematical expression has a balanced number of
+parentheses or not?
 (a) Data Structure
 Stack as a datastructure is used in this program with implementation of array and top as a variable that operates the stack.
 
@@ -20,4 +22,8 @@ This function checks whether the given expression is balanced. It pushes opening
 The main() function takes the input expression from the user and calls the check() function to test balance. If the expression is balanced, it prints "Expression is balanced", otherwise it prints "Expression is not balanced".
 
 (d) A sample output of a complete run of the program.
+
 ![text](link)
+![text](link)
+![text](link)
+
