@@ -18,4 +18,4 @@ The main() function initializes the list with head=NULL, inserts four nodes usin
 
 (d)Output
 
-![output2](link)]
+![output3](https://github.com/shresthaukti/dsa_assignment/blob/545dc086194a90d7587a3fb7a36d444e0fb30284/output/output_3.png)]
