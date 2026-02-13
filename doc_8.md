@@ -37,4 +37,4 @@ The main() function asks the user for the number of elements and creates an arra
 
 (d)Output
 
-![output2](link)
+![output2](https://github.com/shresthaukti/dsa_assignment/blob/a60510078b219090c609b0917786d6f4ee3dcbb8/output/output_8.png)
