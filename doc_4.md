@@ -22,4 +22,4 @@ The main() function creates three nodes (10, 20, 30) and links them to form a do
 
 (d) Output
 
-![output2](link)
+![output2](https://github.com/shresthaukti/dsa_assignment/blob/0d25d62af8c8460bb081d2a59ce0d0ab09574d40/output/output_4.png)
