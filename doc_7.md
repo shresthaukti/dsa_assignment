@@ -5,7 +5,7 @@
 1.Graph (Adjacency Matrix):
 The graph is stored using an adjacency matrix.
 graph[i][j] represents the weight of the edge from vertex i to vertex j.
-If graph[i][j] = 0, it means there is no direct edge.
+If graph[i][j] = 0, it means there is no direct edge.<br>
 
 2.Distance Array (dist[]):
 It stores the shortest distance from the source to each vertex.
@@ -13,34 +13,34 @@ Initially all values are set to infinity (INT_MAX), except the source which is s
 
 3.Processed Set Array (sptSet[]):
 Tracks whether a vertex is processed or not.
-0 means not processed, 1 means processed.
+0 means not processed, 1 means processed.<br>
 
 4.Parent Array (parent[]):
-It stores the predecessor of each vertex in the shortest path.
+It stores the predecessor of each vertex in the shortest path.<br>
 Used to print the actual shortest path.
-Initialized to -1 meaning no parent.
+Initialized to -1 meaning no parent.<br>
 
 (b) Function implementation
 
 1.minDistance():
 
-i.It finds the vertex with the smallest distance value from dist[].
-ii.Only considers vertices that are not processed.
-iii.Returns the index of the minimum-distance vertex.
+i.It finds the vertex with the smallest distance value from dist[].<br>
+ii.Only considers vertices that are not processed.<br>
+iii.Returns the index of the minimum-distance vertex.<br>
 
 2.printPath():
 
-i.It prints the shortest path from the source to a destination vertex.
-ii.Uses the parent[] array to trace the path.
-iii.Prints the path in correct order using recursion.
+i.It prints the shortest path from the source to a destination vertex.<br>
+ii.Uses the parent[] array to trace the path.<br>
+iii.Prints the path in correct order using recursion.<br>
 
 3.dijkstra():
 
 i.Implements Dijkstra’s algorithm.<br>
-ii.Initializes dist[], sptSet[], and parent[].
-iii.Repeatedly selects the nearest unprocessed vertex.
-iv.Updates (relaxes) the distances of neighboring vertices.
-v.Finally prints the shortest distance and path from source to all nodes.
+ii.Initializes dist[], sptSet[], and parent[].<br>
+iii.Repeatedly selects the nearest unprocessed vertex.<br>
+iv.Updates (relaxes) the distances of neighboring vertices.<br>
+v.Finally prints the shortest distance and path from source to all nodes.<br>
 
 (c) main() function
 
