@@ -36,7 +36,7 @@ iii.Prints the path in correct order using recursion.
 
 3.dijkstra():
 
-i.Implements Dijkstra’s algorithm.
+i.Implements Dijkstra’s algorithm.<br>
 ii.Initializes dist[], sptSet[], and parent[].
 iii.Repeatedly selects the nearest unprocessed vertex.
 iv.Updates (relaxes) the distances of neighboring vertices.
@@ -48,4 +48,4 @@ The main() method defines the weighted graph using an adjacency matrix and selec
 
 (d) Output
 
-![output2](link)
+![output2](https://github.com/shresthaukti/dsa_assignment/blob/76c8bf2bb6cbe42df69bb4fff5700e06a52ec47b/output/output_7.png)
